@@ -1,3 +1,4 @@
+
 //Determine las raíces de una ecuación de 2º grado: ax² + bx + c = 0 (recordar que el discriminante Δ = b² – 4ac, y que la raíz r = (–b ± √Δ)/2a).
 #include <stdio.h>
 #include <math.h>
@@ -23,4 +24,3 @@ int main() {
 
     return 0;
 }
-
